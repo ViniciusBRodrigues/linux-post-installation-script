@@ -6,7 +6,6 @@ echo "+-----------------------------------------------------+"
 
 # For openSUSE Leap 42.3 and use at your own risk!
 # Vinícius Barros Rodrigues, for sugestions: viniciusbrbio@gmail.com
-# If you want avoid installing some stuffs add hashtag in the lines.
 
 echo "+------------------------------------------------------------------+"
 echo "Update and dist-upgrade"
