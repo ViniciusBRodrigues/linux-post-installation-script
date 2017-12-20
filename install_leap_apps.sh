@@ -30,7 +30,7 @@ sudo zypper dist-upgrade
 echo "+------------------------------------------------------------------+"
 echo "Installing Apps"
 echo "+------------------------------------------------------------------+"
-sudo zypper -n install kexi inkscape pdfshuffler gimp lollypop bleachbit unetbootin evince-plugin-djvudocument redshift evince-plugin-comicsdocument evince-plugin-xpsdocument evince-plugin-tiffdocument evince-plugin-dvidocument wine xournal kile goldendict pdfchain uget steam octave vlc R-base git kdenlive audacity simplescreenrecorder gpsbabel virtualbox openshot breeze keepassx meld gpodder geany latexila redshift redshift-gtk gpick corebird gradio retext soundconverter
+sudo zypper -n install corebird inkscape pdfshuffler gimp lollypop bleachbit unetbootin evince-plugin-djvudocument redshift evince-plugin-comicsdocument evince-plugin-xpsdocument evince-plugin-tiffdocument evince-plugin-dvidocument wine xournal kile goldendict pdfchain uget steam octave vlc R-base git kdenlive audacity simplescreenrecorder gpsbabel virtualbox openshot breeze keepassx meld gpodder geany latexila redshift redshift-gtk gpick corebird gradio retext soundconverter
 
 echo "+------------------------------------------------------------------+"
 echo "Some packages"
