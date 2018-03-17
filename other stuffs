@@ -1,0 +1,5 @@
+# For KDE Plasma - increase the power speed
+
+sudo zypper remove ModemManager
+sudo journalctl --vacuum-time=5d
+sudo journalctl --vacuum-size=200M 
